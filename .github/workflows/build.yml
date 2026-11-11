@@ -109,4 +109,4 @@ jobs:
             --repo "$GITHUB_REPOSITORY" \
             --title "cloudflared ${TAG} Linux riscv64" \
             --notes-file BUILD-INFO.md \
-            cloudflared-linux-riscv64 SHA256SUMS BUILD-INFO.md cloudflared-linux-riscv64.attestation.json
+            cloudflared-linux-riscv64 SHA256SUMS BUILD-INFO.md
